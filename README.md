@@ -1,0 +1,2 @@
+# rise-plugins
+Demo Plugin
